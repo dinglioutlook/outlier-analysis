@@ -10,4 +10,4 @@
 
 这本书曾经获得Computeing Reviews 的Best of 2013 books 的荣誉。也希望我的翻译能配的上这本书曾经获得的赞誉。
 
-本书所有配图都是d3.js画出来的。
+本书所有配图都是用keynote或者d3.js画出来的。
